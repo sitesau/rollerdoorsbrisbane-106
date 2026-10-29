@@ -1,0 +1,22 @@
+{
+  "wheel_id": 511,
+  "structure": "umbrella",
+  "slug": "rollerdoorsbrisbane-106",
+  "project": "roller-door-repairs-brisbane-local-options-compared-e2c32d86f16",
+  "parent_t1_ref": "rollerdoorsbrisbane-151",
+  "node_role": "feeder",
+  "money_target": "rollerdoorsbrisbane.com.au",
+  "primary_kw": "roller door repairs brisbane local options compared",
+  "intended_url": "https://aumedia.neocities.org/roller-door-repairs-brisbane-local-options-compared-e2c32d86f16/",
+  "tier": "T2",
+  "writeback_nonce": "f9c827d4d2770e75",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/rollerdoorsbrisbane-151/",
+      "anchor": "more on roller door repairs brisbane beginner guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
